@@ -1,3 +1,7 @@
+# Fixes TRP Typesafe Reactive Platform version
+
+Just a few small changes to fix ensime scalap and scala version
+
 [![Melpa Status](http://melpa.milkbox.net/packages/ensime-badge.svg)](http://melpa.milkbox.net/#/ensime)
 
 # ENSIME Emacs
